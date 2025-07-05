@@ -1,11 +1,6 @@
-# DieCast Garage
 DieCast Garage app allows you to keep track of your collection with east
 
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/1c6723a4-c436-469f-85fe-557c5368e859" width=400 />
-  <img src="https://github.com/user-attachments/assets/f69499f9-271f-4529-88fa-1fe98470a965" width=400 />
-</p>
-
+![screenshot](https://github.com/user-attachments/assets/1d88e76b-ab92-471d-9c68-be4ff402671e)
 
 ## Support
 
